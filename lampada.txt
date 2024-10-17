@@ -1,0 +1,9 @@
+Vou ligar o primeiro interruptor e aguardar um tempo considerável para que a lampada conectada a ele fique abstante quente. Segundo passo, irei desligar
+o interruptor primeiro interruptor. Terceiro passo, irei ligar o interruptor 2 deixando-o ligado.
+
+Agora vamos em  busca de saber qual sala está conectada a qual lâmpada. Entro na primeira sala, existem três possibilidades para a lâmpada daquela sala:
+a lâmpada está acesa(que corresponderia ao interruptor 2) ou está desligada e quente(que corresponderia ao interruptor 1) ou estaria desligada e fria(que corresponderia ao interruptor 3)
+sem perda de generalidade, digamos que entrei na primeira sala, ou seja, gastei uma ida as salas, e a lâmpada da sala estava acesa. Portanto, o interruptor
+2 corresponde a primeira sala. Agora vou gastar minha segunda ida, entrando na sala 2, quando entro na sala 2 vejo que a lâmpada está desligada então
+vou em direção a ela para toca-la e percebo que está quente. Portanto, a lâmpada da sala 2 corresponde ao interruptor número 1. Agora, por exclusão, sei que
+o interruptor número 3 corresponde a lâmpada na sala 3.
